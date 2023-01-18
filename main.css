@@ -1,0 +1,48 @@
+.col-container {
+    display: table;
+    width: 100%;
+    color: white;
+    background-color: grey;
+    
+  }
+  .col {
+    display: table-cell;
+    padding: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+
+  }
+
+  h2 {
+    color: white;
+  }
+
+  p4 {
+    border-top: 4 rem;
+    padding-top: 2rem;
+    border: 1px solid red;
+    font-size: 22px;
+    background-color: green;
+    
+
+  }
+  
+  .johndoe {
+    font-size: large;
+    color: white;
+    font-style: italic;
+  }
+
+  th {
+    color: white;
+    background-color: blue;
+    padding: 10px;
+  }
+
+  tr {
+    color: black;
+    background-color: white;
+    
+    
+  }
